@@ -1,0 +1,4 @@
+# Files to be excluded from all the repositories
+
+**/node_modules/
+node_modules/
